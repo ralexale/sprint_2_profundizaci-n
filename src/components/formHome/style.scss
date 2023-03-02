@@ -1,0 +1,46 @@
+@use 'src/constants/variables' as v;
+
+.form {
+    background-color: v.$bgcolorForm;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    &__buttons {
+        padding: 5px;
+        border: 1px solid rgba(0, 0, 0, 0.452);
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        width: 250px;
+        display: flex;
+        gap: 10px;
+        text-decoration: none;
+        button {
+            background-color: #fff;
+            font-weight: bolder;
+            cursor: pointer;
+            border-radius: 5px;
+            padding: 10px;
+            border: none;
+        }
+    }
+}
+
+button.active {
+    background-color: v.$colorPrimary;
+    color: white;
+}
+
+.submitBtn {
+    cursor: pointer;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: v.$colorPrimary;
+    color: #fff;
+    padding: 5px;
+    border-radius: 20px;
+    border: none;
+}
