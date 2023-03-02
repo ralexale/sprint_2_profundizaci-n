@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.389adde9.css",
+    "main.js": "/static/js/main.b27e0a2d.js",
+    "static/media/plane-home.jpg": "/static/media/plane-home.c1f695803518a51e5b85.jpg",
+    "static/media/paypal.svg": "/static/media/paypal.da5a8ec472f937245e1c2a3d25d4af00.svg",
+    "static/media/walmart.svg": "/static/media/walmart.3955695954410ef818cf817705b5f5be.svg",
+    "static/media/Visa.svg": "/static/media/Visa.a3bed91609d5612973358b45064062f2.svg",
+    "static/media/Mastercard.svg": "/static/media/Mastercard.c40902531eecab3fdf569e1c45bfc2f5.svg",
+    "static/media/Amex.svg": "/static/media/Amex.94e9b8cd41a109b35206446470bca05b.svg",
+    "static/media/oxxo.svg": "/static/media/oxxo.4dfe16f95d2a6a75fd1224e66014403f.svg",
+    "static/media/7-eleven.svg": "/static/media/7-eleven.bdfde21882e15a6ce3b7df4a7e7d67e1.svg",
+    "index.html": "/index.html",
+    "main.389adde9.css.map": "/static/css/main.389adde9.css.map",
+    "main.b27e0a2d.js.map": "/static/js/main.b27e0a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.389adde9.css",
+    "static/js/main.b27e0a2d.js"
+  ]
+}
